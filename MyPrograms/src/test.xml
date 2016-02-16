@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="suite1">
+	<test name="Smoke Test">
+		<classes>
+			<class name="com.prog.prac.test.FibbonacciSeriesTest"></class>
+			<class name="com.prog.prac.test.PingPongTest"></class>
+			<class name="com.prog.prac.test.NumberSwapTest"></class>
+			<class name="com.prog.prac.test.FactorialTest"></class>
+			<class name="com.prog.prac.test.PrimeOrNotTest"></class>
+			<class name="com.prog.prac.test.ArmstrongNumberTest"></class>
+	
+			<class name="com.prog.prac.test.ArrayLargestNumTest"></class>
+			<class name="com.prog.prac.test.ArrayCommonNoTest"></class>
+			<class name="com.prog.prac.test.ArrayLinearSearchTest"></class>
+			
+			<class name="com.prog.prac.test.BankMainTest"></class>
+		
+		
+		</classes>
+	</test>
+</suite>
